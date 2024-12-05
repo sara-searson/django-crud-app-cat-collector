@@ -45,6 +45,15 @@ html {
     --font-l: 1.8rem;
     --font-reg: 1.6rem;
     --card-border-radius: 6px;
+    cursor: url('../images/Point.png'), auto;
+  }
+
+  button:hover {
+    cursor: url('../images/Hover.png'),pointer;
+  }
+
+  link:hover {
+    cursor: url('../images/Hover.png'),pointer; 
   }
   
   header {
