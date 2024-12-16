@@ -11,6 +11,10 @@
     border: var(--borders);
     box-shadow: var(--card-box-shadow);
   }
+
+  .card-content:hover {
+    cursor: url('../../images/Hover.png'),pointer; 
+  }
   
   .card-content {
     padding: 10px;
